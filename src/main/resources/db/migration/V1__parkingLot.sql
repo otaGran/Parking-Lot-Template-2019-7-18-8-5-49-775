@@ -1,0 +1,1 @@
+create table parking_lot (name varchar(255) not null, capacity integer not null, location varchar(255), primary key (name));
